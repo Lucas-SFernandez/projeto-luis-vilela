@@ -100,7 +100,7 @@ div#background::before {
     inset: 0;
     flex-direction: column;
     justify-content: center;
-    background-image: url(../imagens/adulto-segurando-bola-de-luz.jpg);
+    background-image: url(../imagens/adulto-segurando-bola-de-luz.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
@@ -292,7 +292,7 @@ div.apometria::before {
     inset: 0;
     flex-direction: column;
     justify-content: center;
-    background-image: url(../imagens/fotonoticia_20200428162622_420.jpg);
+    background-image: url(../imagens/fotonoticia_20200428162622_420.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
@@ -431,7 +431,7 @@ div.cta::before {
     position: absolute;
     inset: 0;
     justify-content: center;
-    background-image: url(../imagens/universo-colorido-refletida-na-agua.jpg);
+    background-image: url(../imagens/universo-colorido-refletida-na-agua.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
